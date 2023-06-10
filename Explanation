@@ -1,0 +1,60 @@
+Welcome to SimpleBot! SimpleBot is a basic Java program that interacts with the user through the console. It can perform several tasks like greeting the user, guessing their age, counting up to a specified number, and testing their programming knowledge.
+
+Getting Started
+To run SimpleBot, you need to have Java installed on your computer. Follow these steps:
+
+Clone or download the SimpleBot project to your local machine.
+Open the project in your preferred Java development environment.
+Compile and run the SimpleBot.java file.
+Usage
+Once you have successfully executed SimpleBot, you will see it interact with you in the console. It will guide you through various tasks. Let's go through the different functionalities of SimpleBot:
+
+Greeting
+SimpleBot will greet you and introduce itself. It will ask you to remind it of your name.
+
+Reminding Name
+You can enter your name when prompted by SimpleBot. It will acknowledge your name and provide a compliment.
+
+Guessing Age
+SimpleBot will try to guess your age based on remainders obtained by dividing your age by 3, 5, and 7. You need to enter these remainders when prompted. SimpleBot will calculate your age and inform you about it.
+
+Counting
+SimpleBot will prove its ability to count to any number you want. Enter a number, and SimpleBot will count from 0 to that number.
+
+Testing Programming Knowledge
+SimpleBot will ask you a programming-related question. You need to enter the correct option number as your answer. If you provide an incorrect answer, SimpleBot will ask you to try again.
+
+Ending the Interaction
+After completing all the tasks, SimpleBot will congratulate you and wish you a nice day.
+
+Example Interaction
+Here's an example of how an interaction with SimpleBot might look:
+
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+>John
+What a great name you have, John!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5, and 7.
+>1
+>2
+>1
+Your age is 22; that's a good time to start programming!
+Now I will prove to you that I can count to any number you want.
+>5
+0!
+1!
+2!
+3!
+4!
+5!
+Let's test your programming knowledge.
+What is the capital of France?
+1. Paris
+2. Rome
+3. London
+4. Madrid
+>2
+Please, try again.
+Congratulations, have a nice day!
